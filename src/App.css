@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Geo', sans-serif;
+  font-size: 72px;
+  color: rgb(38, 255, 0);
+}
+
+span {
+  color: #ff389be3;
+}
